@@ -10,5 +10,5 @@ Sample website with plenty of files for demos
 ##Deployment
 
 ## How to Contribute
-Checking:
+Checking: Making changes on Master
 
